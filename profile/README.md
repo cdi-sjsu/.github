@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Im startin to like ts 😼
+# Chip Design Initiative 
+### The REal one
 <!--
 
 **Here are some ideas to get you started:**
