@@ -1,7 +1,7 @@
 ## Im startin to like ts 😼
 # Chip Design Initiative 
 ### The REal one
-![Verilog]
+![Verilog](https:raw.githubusercontent.com/cdi-sjsu/assets/main/V-thing-Verylog.png)
 
 <!--
 
