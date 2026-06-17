@@ -1,6 +1,8 @@
 ## Im startin to like ts 😼
 # Chip Design Initiative 
 ### The REal one
+![Verilog]
+
 <!--
 
 **Here are some ideas to get you started:**
