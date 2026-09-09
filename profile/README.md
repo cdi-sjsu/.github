@@ -15,7 +15,7 @@
 -->
 
 <p align="center">
-  <img src="cdi.png" alt="cdi" width="40%">
+  <img src="../cdi.png" alt="cdi" width="40%">
 </p>
 
 
