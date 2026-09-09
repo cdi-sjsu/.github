@@ -18,8 +18,8 @@
   <img src="../cdi.png" alt="cdi" width="40%">
 </p>
 
-<h1 style="text-align: center;">Chip Design Initiative @ SJSU</h1>
----
+
+<h3 align="left">Chip Design Initiative @ SJSU</h3>
 
 Student led organization to develop embedded hardware, asic and much more.
 
